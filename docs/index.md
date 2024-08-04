@@ -1,10 +1,12 @@
 # Welcome to my github website
 
-## Proyects
+## 2024 Projects/Learnings
 
-- **Proyecto 1**: Descripción breve del proyecto.
-- **Proyecto 2**: Descripción breve del proyecto.
+1. Logging System Design for distributed systems
+2. Degenerative spine conditions 
+3. LLMs applications
+
 
 ## Contact
 
-Puedes contactarme a través de [pepemxl](mailto:pepemxl@gmail.com).
+You can contact me on [pepemxl](mailto:pepemxl@gmail.com).
